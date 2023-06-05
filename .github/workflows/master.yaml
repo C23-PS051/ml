@@ -3,15 +3,18 @@ on:
  push:
    branches: [master]
 jobs:
- deploy:
-   name: Deploy
-   runs-on: ubuntu-latest
+  deploy:
+    name: Deploy to App Engine
+    runs-on: ubuntu-latest
 
-   steps:
-     - uses: actions/checkout@v2
-     - uses: actions-hub/gcloud@master
-       env:
-         PROJECT_ID: ${{secrets.GCLOUD_PROJECT_PROD_ID}}
-         APPLICATION_CREDENTIALS: ${{secrets.GCLOUD_GITHUB_CREDENTIALS}}
-       with:
-         args: app deploy ./app.yaml
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Google App Engine
+        uses: google-github-actions/deploy-appengine@v0.4.0
+        with:
+          project_id: ${{secrets.GCLOUD_PROJECT_PROD_ID}}
+          version: master
+          credentials: ${{secrets.GCLOUD_GITHUB_CREDENTIALS}}
+          flags: --no-cache
+          deliverables: app.yaml

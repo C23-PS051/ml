@@ -5,3 +5,4 @@ psycopg2-binary==2.9.6
 google-cloud-secret-manager==2.16.1
 django-rest-framework==0.1.0
 djangorestframework==3.14.0
+firebase-admin==6.1.0

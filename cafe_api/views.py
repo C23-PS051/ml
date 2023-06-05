@@ -4,6 +4,8 @@ from rest_framework import status
 from rest_framework import permissions
 from .models import Cafe
 from .serializers import CafeSerializer
+from firebase_admin import firestore
+
 
 class CafeListAPIView(APIView):
     # add permission to check if user is authenticated
@@ -25,4 +27,3 @@ class CafeListAPIView(APIView):
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

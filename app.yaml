@@ -1,5 +1,7 @@
 # [START django_app]
 runtime: python39
+env_variables:
+  DJANGO_SETTINGS_MODULE: "settings"
 handlers:
 # This configures Google App Engine to serve the files in the app's
 # static directory.
@@ -10,5 +12,6 @@ handlers:
 # (along with the entire handlers section) when there are no static 
 # files defined.
 - url: /.*
+  redirect_http_response_code: 301
   script: auto
 # [END django_app]

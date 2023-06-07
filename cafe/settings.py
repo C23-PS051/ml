@@ -25,7 +25,7 @@ environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 if not firebase_admin._apps:
     if os.getenv('GAE_APPLICATION', None):
         # Run at Google App Engine server
-        cred = credentials.Certificate(env('FIRESTORE'))
+        cred = credentials.Certificate(os.getenv('FIRESTORE'))
         firebase_admin.initialize_app(cred)
     else:
         # Run locally

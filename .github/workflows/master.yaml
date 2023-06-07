@@ -10,6 +10,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Replace secrets in Googles App Engine Deployment File
+        uses: 73h/gae-app-yaml-replace-env-variables@v0.3
+        env:
+          FIRESTORE: ${{ secrets.FIRESTORE }}
+          GCLOUD_GITHUB_CREDENTIALS: ${{ secrets.GCLOUD_GITHUB_CREDENTIALS }}
+          GCLOUD_PROJECT_PROD_ID: ${{ secrets.GCLOUD_PROJECT_PROD_ID }}
+        with:
+          app_yaml_path: "app.yaml"
       - name: Google App Engine
         uses: google-github-actions/deploy-appengine@v0.4.0
         with:

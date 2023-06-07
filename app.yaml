@@ -3,6 +3,9 @@ runtime: python39
 service: ml-api
 env_variables:
   DJANGO_SETTINGS_MODULE: "settings"
+  FIRESTORE: $FIRESTORE
+  GCLOUD_GITHUB_CREDENTIALS: $GCLOUD_GITHUB_CREDENTIALS
+  GCLOUD_PROJECT_PROD_ID: $GCLOUD_PROJECT_PROD_ID
 handlers:
 # This configures Google App Engine to serve the files in the app's
 # static directory.

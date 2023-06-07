@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from cafe_api import urls as cafe_urls
+from cafe_model import urls as cafe_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),

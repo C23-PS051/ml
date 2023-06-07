@@ -13,13 +13,18 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 from pathlib import Path
 import firebase_admin
 from firebase_admin import credentials
+import os
+import environ
 
-if not firebase_admin._apps:
-    cred = credentials.Certificate(os.environ['FIRESTORE']) 
-    firebase_admin.initialize_app(cred)
+env = environ.Env()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
+
+if not firebase_admin._apps:
+    cred = credentials.Certificate(os.path.join(BASE_DIR, env('FIRESTORE'))) 
+    firebase_admin.initialize_app(cred)
 
 
 # Quick-start development settings - unsuitable for production
@@ -44,7 +49,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'cafe_api'
+    'cafe_model'
 ]
 
 MIDDLEWARE = [

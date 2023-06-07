@@ -82,3 +82,4 @@ $RECYCLE.BIN/
 #Intellij
 .idea
 
+creds.json

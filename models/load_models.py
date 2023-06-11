@@ -107,7 +107,7 @@ cafe_train = df_cafe.copy()
 y_train = y_label.copy()
 
 #drop irrelevant columns
-user_train = user_train.drop(['age', 'name'], axis=1)
+user_train = user_train.drop(['age', 'name', 'is_male', 'age_group'], axis=1)
 user_train.head()
 
 #drop irrelevant columns

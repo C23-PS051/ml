@@ -15,6 +15,7 @@ import firebase_admin
 from firebase_admin import credentials
 import os
 import environ
+from cafe_model.variables import ML_VAR
 
 env = environ.Env()
 

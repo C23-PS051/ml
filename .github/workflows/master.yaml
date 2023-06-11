@@ -10,10 +10,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Generate creds
+        run: |
+          echo -e "FIRESTORE=${FIRESTORE_PATH}\nDB_HOST=${DB_HOST}\nDB_PORT=${DB_PORT}\nDB_USER=${DB_USER}\nDB_NAME=${DB_NAME}\nDB_PASSWORD=${DB_PASSWORD}\n" >> .env
+          echo ${FIRESTORE} >> ${FIRESTORE_PATH}
+        shell: bash
+        env:
+          FIRESTORE: ${{secrets.FIRESTORE}}
+          FIRESTORE_PATH: ${{secrets.FIRESTORE_PATH}}
+      - id: 'auth'
+        uses: 'google-github-actions/auth@v1'
+        with:
+          credentials_json: ${{ secrets.GCLOUD_GITHUB_CREDENTIALS }}
+          service_account: 'capstone-p51-388015@appspot.gserviceaccount.com'
       - name: Replace secrets in Googles App Engine Deployment File
         uses: 73h/gae-app-yaml-replace-env-variables@v0.3
         env:
-          FIRESTORE: ${{ secrets.FIRESTORE }}
           GCLOUD_GITHUB_CREDENTIALS: ${{ secrets.GCLOUD_GITHUB_CREDENTIALS }}
           GCLOUD_PROJECT_PROD_ID: ${{ secrets.GCLOUD_PROJECT_PROD_ID }}
         with:

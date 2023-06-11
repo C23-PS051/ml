@@ -23,14 +23,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 
 if not firebase_admin._apps:
-    if os.getenv('GAE_APPLICATION', None):
-        # Run at Google App Engine server
-        cred = credentials.Certificate(os.getenv('FIRESTORE'))
-        firebase_admin.initialize_app(cred)
-    else:
-        # Run locally
-        cred = credentials.Certificate(os.path.join(BASE_DIR, env('FIRESTORE'))) 
-        firebase_admin.initialize_app(cred)
+    cred = credentials.Certificate(os.path.join(BASE_DIR, env('FIRESTORE'))) 
+    firebase_admin.initialize_app(cred)
 
 
 # Quick-start development settings - unsuitable for production
@@ -42,7 +36,7 @@ SECRET_KEY = 'django-insecure-avau*o0nnj_2mxekgs20#ffc7aj(n87jd%gg=3yrsqnlhsyu*v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

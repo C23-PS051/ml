@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 
 if not firebase_admin._apps:
-    cred = credentials.Certificate(env('FIRESTORE'))
+    cred = credentials.Certificate(os.path.join(BASE_DIR, env('FIRESTORE')))
     firebase_admin.initialize_app(cred)
 
 

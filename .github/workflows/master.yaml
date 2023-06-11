@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate creds
         run: |
-          echo -e "FIRESTORE=${FIRESTORE_PATH}\nDB_HOST=${DB_HOST}\nDB_PORT=${DB_PORT}\nDB_USER=${DB_USER}\nDB_NAME=${DB_NAME}\nDB_PASSWORD=${DB_PASSWORD}\n" >> .env
+          echo -e "FIRESTORE=${FIRESTORE_PATH}\n" >> .env
           echo ${FIRESTORE} >> ${FIRESTORE_PATH}
         shell: bash
         env:

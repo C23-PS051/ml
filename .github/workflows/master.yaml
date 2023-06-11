@@ -30,6 +30,11 @@ jobs:
           GCLOUD_PROJECT_PROD_ID: ${{ secrets.GCLOUD_PROJECT_PROD_ID }}
         with:
           app_yaml_path: "app.yaml"
+      - id: 'secrets'
+        uses: 'google-github-actions/get-secretmanager-secrets@v1'
+        with:
+          secrets: |-
+            firestore:capstone-p51-388015/FIRESTORE
       - name: Google App Engine
         uses: google-github-actions/deploy-appengine@v0.4.0
         with:

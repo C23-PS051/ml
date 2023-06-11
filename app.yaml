@@ -1,6 +1,7 @@
 # [START django_app]
 runtime: python39
 service: ml-api
+instance_class: F4_1G
 env_variables:
   DJANGO_SETTINGS_MODULE: 'cafe.settings'
   GCLOUD_GITHUB_CREDENTIALS: $GCLOUD_GITHUB_CREDENTIALS

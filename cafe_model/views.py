@@ -41,7 +41,7 @@ class GenerateCafeAPIView(APIView):
 
         result = predict(settings.ML_VAR["model"], user_vec, settings.ML_VAR["cafe_trial"], settings.ML_VAR["scalerUser"], settings.ML_VAR["scalerItem"], settings.ML_VAR["scalerTarget"], settings.ML_VAR["cafe_data"], settings.ML_VAR["u_s"], settings.ML_VAR["c_s"])
 
-        result_str = result.to_string()
+        result_json = result.to_json()
 
-        return Response({"result": result_str}, status=status.HTTP_200_OK)
+        return Response({"result": result_json}, status=status.HTTP_200_OK)
 

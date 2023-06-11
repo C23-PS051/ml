@@ -14,6 +14,9 @@ jobs:
         run: |
           echo -e "FIRESTORE=${FIRESTORE_PATH}\n" >> .env
           echo ${FIRESTORE} >> ${FIRESTORE_PATH}
+          ls
+          cd ..
+          ls
         shell: bash
         env:
           FIRESTORE: ${{secrets.FIRESTORE}}

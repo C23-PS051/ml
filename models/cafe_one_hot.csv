@@ -1,151 +1,151 @@
 cafe_id,nama,alamat,region,rating,review,fasilitas,kategori_harga,is_24hrs,is_outdoor,is_smoking_area,is_parking_area,is_pet_friendly,is_wifi,is_indoor,is_live_music,is_takeaway,is_kid_friendly,is_alcohol,is_in_mall,is_toilets,is_reservation,is_vip_room
-1,Bakerzin Central Park,"Central Park Mall, Letjen S. Parman No.28, RT.12/RW.6",West Jakarta,4.8,"2,752","outdoor, kid_friendly, reservations, in_mall",$$,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0
-2,Bloom Coffee & Eatery,"Jl. Swadaya Ruko Swadaya City Square No.39, RT.11/RW.2",West Jakarta,4.7,592,"smoking_area, indoor, wifi",$,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
-3,Starbucks MGR 1,"Jl. Tanjung Duren Raya No.Kav.5-9, RT.3/RW.5",West Jakarta,4.7,298,"outdoor, wifi, indoor, ",$$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-4,Overlimit Coffee Jakarta ( Cafe ),"Jl. H. Soleh II No.2B, RT.7/RW.2",West Jakarta,4.7,248,"outdoor, live_music, wifi, smoking_area, alcohol",$,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0
-5,Starbucks Coffee Pos Pengumben,"Jl. Raya Pos Pengumben No.34A, RT.10/RW.3",West Jakarta,4.6,"1,318","outdoor, wifi",$$,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-6,Sudutsatu,Jl. Tj. Duren Barat I No.1c,West Jakarta,4.6,"1,288","outdoor, wifi",$$,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-7,Starbucks - Central Park Mall,"Jl. S Parman Kav 28 L1-133, First Floor Jakarta JK, RT.12/RW.6",West Jakarta,4.6,"1,204","outdoor, wifi, smoking_area, pet_friendly, in_mall",$$,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0
-8,Guten Mørgen Coffee Lab & Shop Tomang,"Jl. Mandala Utara No.29C, RT.17/RW.4",West Jakarta,4.6,884,"outdoor, wifi,",$$,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-9,Atap kopi,"7, Jl. Panjang Kp. Baru No.2, RW.4",West Jakarta,4.6,729,"outdoor, wifi, alcohol",$,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0
-10,Tanatap Coffee Meruya,"Jl. Jalur 20 No.Blok 30/19, RT.8/RW.10",West Jakarta,4.6,718,"parking_area, outdoor, wifi, smoking_area, ",$$,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
-11,Aiclass,"aiclass, Jl. Meruya Selatan No.27, RW.2",West Jakarta,4.6,666,"outdoor, indoor, live_music",$,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
-12,BERMVDA CENTRAL PARK,"Central Park Mall, 127B, Ground Floor, Jl. Letjen S. Parman, RT.12/RW.6",West Jakarta,4.6,351,"pet_friendly, outdoor, wifi, indoor, smoking_area, in_mall",$$,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0
-13,OLIVE TREE House of Croissants,"Taman Permata Buana, Jl. Pulau Sebaru No.6, RT.11/RW.9",West Jakarta,4.6,345,"outdoor, indoor, pet_friendly, smoking_area, ",$,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
-14,KOPI NGEBUL COFFEE & RESTO,"Jl. Jalur 20 No.Kav. 30 No.25, RT.8/RW.10",West Jakarta,4.6,273,"outdoor, indoor, vip_room, parking_area, ",$$,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1
-15,Caffeine Suite,"Tomang Barat, Jl. Duri Mas Dalam I Raya No.38",West Jakarta,4.6,229,"smoking_area, indoor, parking_area, wifi",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0
-16,Dancing Goat Coffee Co.,"Ruko Grand Puri Niaga, Jalan Puri Kencana Blok K6/2P, RT.11/RW.7, Kembangan Selatan, Kembangan, RT.11/RW.7",West Jakarta,4.5,"1,377","wifi, smoking_area, reservation, ",$$,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
-17,Excelso,"Central Park Lantai GF, Jalan Letjen. S. Parman Kav. 28, RT.13/RW.8",West Jakarta,4.5,"1,362","indoor, outdoor, in_mall, smoking_area ",$$,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0
-18,Papa & Mama Bistro and Coffee,"Perrum Green Ville Blok. AS No. 40C, Jl. Komp. Green Ville No.Raya, RT.12/RW.13",West Jakarta,4.5,751,"wifi, smoking_area, outdoor, reservation, parking_area",$$,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0
-19,Kuup Boardgame Cafe Greenville,"Blok no, Jalan Green Ville Blok Bk No.8c, RT.8/RW.14, Duri Kepa, Kebon Jeruk, RT.8/RW.14",West Jakarta,4.5,745,indoor,$$,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-20,Common Grounds Neo Soho,"Neo Soho Mall Ground Floor, Letjen S. Parman St No.Kav. 28, RT.3/RW.5",West Jakarta,4.5,738,"outdoor, wifi, reservation, in_mall",$$,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
-21,Say Something Coffee,"Ruko Grand Aries, Niaga, Jl. Aries Utara Blok G1 No.2-O, RT.12/RW.3",West Jakarta,4.5,621,"wifi, parking_area, ",$$,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-22,Dinobites Cafe,Gg. Macan No.102C,West Jakarta,4.5,562,"wifi, kid_friendly",$$,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-23,"Fore Coffee - Pesanggrahan, Jakarta","Jl. Pesanggrahan No.168, RW.6",West Jakarta,4.5,515,"indoor, smoking_area",$$,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-24,Tyfel Coffee,"Jl. Mangga Raya Jl. Green Ville No.4, RT.8/RW.8",West Jakarta,4.5,464,"outdoor, alcohol, kid_friendly, wifi, reservation, smoking_area, ",$$,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0
-25,Yoloé Bistro and Coffee Bar,"Jl. Mangga Raya No.18, RT.4/RW.3",West Jakarta,4.5,362,"wifi, alcohol, reservation, smoking_area",$$,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0
-26,Arabica Central Park,"Letjen S. Parman St, RT.3/RW.5",West Jakarta,4.4,628,"outdoor, in_mall",$$,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
-27,Tantular Cafe Pesanggrahan,"2, Jl. Pesanggrahan No.10G, RT.1/RW.9",West Jakarta,4.4,479,"outdoor, alcohol, live_music",$$,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0
-28,The Coffee Bean & Tea Leaf,"Jalan Letjen. S. Parman No.28, Grogol Petamburan, RT.12/RW.6",West Jakarta,4.4,436,"smoking_area, outdoor",$$,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-29,FountainHead Cafe Co. Living,RT.2/RW.10,West Jakarta,4.4,399,"wifi, kid_friendly, indoor, outdoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-30,Coffhouse Cengkareng,"Ps. Bersih Cengkareng, Jl. Danau Batur No.22, RW.16",West Jakarta,4.4,293,"live_music, takeaway, indoor",$$,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
-31,JPC Kemang Cafe,Jl. Kemang Raya No.47C,South Jakarta,5,"3,707","wifi, indoor, parking_area, toilets",$,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
-32,"C Bakes, Pondok Indah","Jl. Metro Pondok Indah No.28, RT.5/RW.14",South Jakarta,5,"3,612","takeaway, wifi, indoor, toilets",$$,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0
-33,Mardin Fine Baklava Cafe - Kemang,"Jl. Kemang Utara No.16B1, RW.1",South Jakarta,4.8,"3,200","outdoor, indoor, wifi, parking_area, kid_friendly",$$$,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0
-34,Lemme Get Space Coffee & Colaborative - Jagakarsa,"Jl. Moh. Kahfi 1 No.60, RT.7/RW.4",South Jakarta,4.8,"3,049","takeaway, wifi, indoor, outdoor, toilets, kid_friendly, parking_area",$,1,1,0,1,0,1,1,0,1,1,0,0,1,0,0
-35,Kopi Cat Cafe by Groovy - Kemang,"Jl. Kemang Selatan VIII No.63A-B, RT.7/RW.2",South Jakarta,4.8,"2,623","pet_friendly, wifi, toilets, parking_area",$$,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0
-36,Dipuri.jkt,"Jl. Puri Mutiara Raya No.3B, RT.7/RW.1",South Jakarta,4.8,"2,399","kid_friendly, toilets, alcohol, takeaway, indoor, outdoor",$$,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0
-37,Toko Kopi Tuku - Cipete,"Jl. Cipete Raya B No.7, RT.6/RW.3",South Jakarta,4.7,"1,979","outdoor, indoor, toilets",$,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
-38,Toko Kopi TUKU (Go-Food Only),"Jl. Abdul Majid Raya No.26, RT.7/RW.2",South Jakarta,4.7,"1,621","outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
-39,Cecemuwe Cafe and Space - Senayan,"Jl. Hang Jebat IX No.6, RW.4",South Jakarta,4.7,"1,460","wifi, outdoor, indoor, pet_friendly, kid_friendly, toilets",$$,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0
-40,Sama Dengan Antasari,Jl. Putih Melati No.10B,South Jakarta,4.7,"1,437","outdoor, indoor, kid_friendly, toilets",$$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
-41,Warung Fotkop,"Jl. Nangka I No.6, RT.2/RW.5",South Jakarta,4.7,"1,388","wifi, outdoor, indoor, pet_friendly, kid_friendly, toilets",$$,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0
-42,Kedai Kopi Guyon,"Jl. RS. Fatmawati Raya No.22A, RT.14/RW.4",South Jakarta,4.7,"1,382","outdoor, indoor, pet_friendly",$$,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
-43,Starbucks Cipete,"Jl. Cipete Raya No.8, RW.4",South Jakarta,4.7,"1,356","outdoor, smoking_area, parking_area, indoor,",$$,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0
-44,Gontran Cherrier Cipete,"6, Cipete, Jl. Cipete Raya No.63, RW.4",South Jakarta,4.7,"1,022","outdoor, indoor, reservation, smoking_area",$$$,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0
-45,Ramu Nostalgia - Tebet,"Jl. Tebet Barat Dalam Raya IX No.56, RT.3/RW.3",South Jakarta,4.7,985,"outdoor, reservation",$$,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
-46,Toodz House - Cipete,"Jl. Cipete Raya No.79, RT.7/RW.4",South Jakarta,4.6,940,"outdoor, indoor, smoking_area, reservation, parking_area",$$$,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0
-47,Dua Coffee @Cipete,Jl. Cipete Raya No.66,South Jakarta,4.6,889,"wifi, reservation, outdoor, smoking_area, parking_area",$$,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0
-48,MOREAU Chocolatier's Cafe,"13, Jl. Kemang Raya No.31, RT.13/RW.1",South Jakarta,4.6,604,"wifi, outdoor, indoor, kid_friendly, takeway, toilets",$$,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0
-49,"Bukan Ruang, Kemang","6, Jl. Kemang Raya No.29B, RT.6/RW.1",South Jakarta,4.6,593,"wifi, outdoor, indoor, kid_friendly, takeway, toilets",$$,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0
-50,Gordi HQ,"6, Jl. Jeruk Purut Dalam No.mor 25, RT.6/RW.3",South Jakarta,4.6,877,"wifi, kid_friendly, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-51,Six Ounces Coffee Panglima Polim,"Jl. Panglima Polim IX No.93, RT.4/RW.6",South Jakarta,4.6,855,"wifi, kid_friendly, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-52,GOLDEN BLACK COFFEE,"Jl. Pelita No.5B, RT.5/RW.7",South Jakarta,4.6,845,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-53,Starbucks - THB Pondok Indah,"2, Jl. Gedung Hijau I No.9, RT.1/RW.13",South Jakarta,4.6,826,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-54,Stuja Coffee Cipete,"19, Jl. Cipete Raya No.18, RT.8/RW.3",South Jakarta,4.6,816,"wifi, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-55,"1/15 Coffee, Kemang","Jl. Kemang Raya No.37, RT.9/RW.1",South Jakarta,4.6,802,"indoor, kid_friendly, toilets",$$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
-56,Alenia Papua Coffee & Kitchen,"Jl. Kemang Raya No.66 B, RT.8/RW.2",South Jakarta,4.6,801,"indoor, kid_friendly, toilets",$$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
-57,Kopi Tikum,"Jl. Ciranjang No.25, RT.2/RW.1",South Jakarta,4.6,756,"outdoor, indoor, kid_friendly",$$,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-58,Magia Coffee,"Samping Lift Stasiun MRT Haji Nawi, Jl. RS. Fatmawati Raya No.6A, RT.4/RW.5",South Jakarta,4.6,708,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-59,2madison Cafe,"Gedung PROMENADE 20, Jl. Bangka Raya Jl. Kemang Raya No.20, RT.11/RW.3",South Jakarta,4.6,708,"wifi, kid_friendly, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-60,Kopi & Kamu ( KOPKA CIPETE ),"Samping pintu F MRT, Jl. RS. Fatmawati Raya No.22, RW.4",South Jakarta,4.6,625,"outdoor, indoor, takeaway, toilets",$,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
-61,Djakarta Cafe,"gedung djakarta theatre, Jl. M.H. Thamrin No.9, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.2,1590,"wifi, kid_friendly, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-62,Kawisari Cafe & Eatery,"Jl. Kebon Sirih No.77A, RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,1303,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-63,Wake Cup Coffee,"Jl. Kaji No.40, RT.10/RW.7, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",Central Jakarta,4.5,768,"kid_friendly, outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
-64,Teras Senja Coffee Shop,"Jl. F No.2, RT.12/RW.10, Cemp. Baru, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",Central Jakarta,4.7,272,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-65,Anomali Coffee Menteng,"Jl. Teuku Cik Ditiro No.52, RT.10/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.4,4164,"outdoor, indoor, toilets",$$,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
-66,Workroom Coffee,"Jl. Cikini Raya No.9, Menteng, RT.16/RW.1, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",Central Jakarta,4.3,830,"wifi, kid_friendly, indoor, toilets",$$,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0
-67,O'delice cafe,"3, Jl. HOS. Cokroaminoto No.22, RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.6,200,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-68,Goedkoop,"Jl. Bendungan Hilir No.62, RT.5/RW.1, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.4,2239,"outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-69,Kolonial Jaksa,"Jl. Jaksa No.18, RT.13/RW.2, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,292,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-70,PeraciKopi,"Jl. Salemba Bluntas No.74, RT.11/RW.5, Paseban, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440",Central Jakarta,4.7,200,"outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
-71,"1/15 Coffee, Menteng","Jl. Dr. Kusuma Atmaja No.79, RT.10/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,2318,"outdoor, indoor, kid_friendly",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-72,Watt Coffee,"The Capitol Park, Apartment, Jl. Salemba Raya No.16, RT.3/RW.6, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",Central Jakarta,4.4,561,"wifi, outdoor, indoor, pet_friendly",$$,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0
-73,Saudagar Kopi Sabang,"Jl. H. Agus Salim No.26F, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,2364,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-74,Mood Coffee - Sabang,"Jl. H. Agus Salim No.23 A, RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,380,"indoor, kid_friendly",$,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
-75,Malacca Toast Pasar Baru,"Jl. Samanhudi No.71, RT.8/RW.6, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",Central Jakarta,4.4,895,"outdoor, indoor, kid_friendly",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-76,ROMANSA,"Jl. H. Agus Salim No.18, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,564,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-77,Starbucks,"Starbucks Stasiun, Area Keberangkatan Jl. Medan Merdeka Tim. No.5, RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",Central Jakarta,4.4,2199,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-78,Giyanti Coffee Roastery,"Jl. Surabaya No.20, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.6,3278,"indoor, toilets",$$,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
-79,Arborea Café,"Manggala Wanabakti complex, Jl. Gatot Subroto No.1, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",Central Jakarta,4.5,3207,"kid_friendly, outdoor, indoor, toilets",$$,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0
-80,Common Grounds Coffee Roaster Menteng,"Jl. Teuku Cik Ditiro No.10, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.2,288,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-81,Ombé Kofie Menteng,"Jl. HOS. Cokroaminoto No.62A, RT.6/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.5,1081,"outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-82,Tigalima - Coffee & Kitchen,"Jalan K.H. Wahid Hasyim No.35 RT.016/RW.006 Gondangdia Menteng, RT.16/RW.6, Kb. Sirih, Jakarta, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.2,386,"kid_friendly, indoor, toilets",$$,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
-83,Amalgam Coffee Brewery,"Jl. Kebon Sirih No.39, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,259,"kid_friendly, outdoor, indoor",$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-84,Atap Rumah Cafe,"Jl. Penjernihan IV No.9, RW.5, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.4,331,"kid_friendly, outdoor, indoor",$,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-85,Starbucks Plaza Menteng,"Jl. HOS. Cokroaminoto No.79, RT.3/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,315,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-86,Starbucks - Metropole,"Jl. Pegangsaan Timur No.21, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,1485,"wifi, outdoor, indoor, toilets",$$,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
-87,Kopinette,"Jl. Blora No.7 2 6, RT.2/RW.6, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,284,"wifi, outdoor, indoor, toilets",$$,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0
-88,Phoenam Coffee Shop,"Jalan K.H. Wahid Hasyim No.12 RT.2/RW.7 Gondangdia Menteng RT.2 7, Sulawesi Selatan 10340",Central Jakarta,4.4,995,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-89,Starbucks Cik Ditiro,"Jl. Teuku Cik Ditiro No.33, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.7,1101,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-90,KEN ALIY COFFEE - KOPI ENAK SPACES,"Jl. Bend. Hilir Gg. 3 No.11, RT.10/RW.1, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.6,495,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
-91,Klangen Coffee & Resto,Jl. Rawa Domba No.17,East Jakarta,4.7,845,"kid_friendly, outdoor, indoor",$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-92,Hakuna Matata Jakarta,"Jl. Pertengahan No.5, RW.3",East Jakarta,4.6,844,"kid_friendly, outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-93,Kyō Coffee,Jl. Wirajasa Jl. Raya Jatiwaringin No.1,East Jakarta,4.5,787,"kid_friendly, outdoor, indoor, toilets",$$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
-94,Masalalu,"2, Jl. Rawa Domba No.47A, RT.2/RW.16",East Jakarta,4.7,750,"wifi, kid_friendly, pet_friendly, outdoor, indoor",$,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0
-95,Vapehan Cafe,"Jl. Jend. R.S. Soekanto No.1, RT.1/RW.11",East Jakarta,4.9,731,"kid_friendly, indoor, toilets",$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
-96,LACOCO CAFE,"Jalan Pondok Kelapa Raya Blok A12 No.10 Kota Jakarta Timur, RT.5/RW.11",East Jakarta,4.6,723,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
-97,Kopilot Coffee House And Kitchen,"Jl. Raya Pd. Gede No.1, RW.3",East Jakarta,4.5,648,"kid_friendly, outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-98,This Is Hud,"Jl. Raya Jatiwaringin No.13, RT.8/RW.7",East Jakarta,4.5,593,"kid_friendly, indoor",$,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
-99,MEET/N/WORK Coffee & Eatery,"Jl. Sunan Giri No.3, RT.2/RW.15",East Jakarta,4.6,543,"kid_friendly, indoor",$$,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
-100,Cafe Tuyul To You All,"Jl. Tegal Amba No.10, RT.3/RW.13",East Jakarta,4.6,540,"parking_area, smoking_area, outdoor, indoor",$$,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
-101,Nuansa coffee and barber,Jl. Biru Laut VIII No.48.C,East Jakarta,4.7,456,"wifi, parking_area, indoor",$,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
-102,Happy Twin Cafe & Resto,"Jl. Taman Malaka Selatan No.12-14 No.12-14 RT.002/009, RT.2/RW.9",East Jakarta,4.7,449,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-103,Lupa Waktu Coffee,RT.7/RW.5,East Jakarta,4.7,435,"wifi, smoking_area, outdoor, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-104,Brew n' Sis Coffee & Eatery,"Jl. Pegambiran No.9A, RW.7",East Jakarta,4.8,375,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-105,Kopi Wangsa,"The View Building, Jl. Pahlawan Revolusi No.5, RT.8/RW.9",East Jakarta,4.7,361,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-106,SeedMe Casual Cafe,"Jl. Balai Pustaka Barat No.4A, RT.4/RW.11",East Jakarta,4.6,353,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-107,Kopi Kecil,"Kav.1, Jl. Kayu Putih Raya No.1, RT.8/RW.8",East Jakarta,4.6,350,"wifi, smoking_area, outdoor, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-108,Elzatta Cafe Pondok Kelapa Jakarta Timur,"Jl. Kelapa Kopyor 14 Komplek Pondok Kelapa Indah Blok A No.15, RT.13/RW.7",East Jakarta,4.5,319,"wifi, smoking_area, outdoor, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-109,The ORR'S Cafe Jakarta,"Jl. Pramuka No.18, RT.1/RW.1",East Jakarta,4.7,313,"wifi, smoking_area, outdoor, parking_area, live_music, indoor",$$,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0
-110,1947 Cafe Jakarta,"Jl. Pramuka No.19B, RT.6/RW.1",East Jakarta,4.8,313,"wifi, smoking_area, outdoor, parking_area, vip_room, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1
-111,Lentera Café,"Jl. Cipinang Muara 3 No.17, RT.6/RW.4",East Jakarta,4.6,311,"wifi, parking_area, live_music, indoor",$,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0
-112,Noesantara Coffee & Culinary,"Jl. Tawes No.21, RW.7",East Jakarta,4.9,285,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-113,Royale Cafe Resto,"Jl. Radin Inten II No.46, RT.1/RW.15",East Jakarta,4.6,274,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-114,RUMAH NGOPI,"Jl. Lkr. Timur Duren Sawit No.2, RW.4",East Jakarta,4.6,252,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-115,Flash Coffee,"Jl. Waru No.16, RT./RW:/RW.005/016",East Jakarta,4.7,242,"parking_area, indoor",$,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-116,Rich Cafe House,"Jl. Radin Inten II Blok AG13 No.8, RT.5/RW.14",East Jakarta,4.3,239,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-117,Cafe Iyul,"Jl. Pedati Timur Dalam No.8, RT.12/RW.9",East Jakarta,4.4,237,"smoking_area, outdoor, indoor",$,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
-118,CUSTOMS coffee house,Jl. Bujana Tirta 2 No.4A,East Jakarta,4.6,222,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-119,Idaman cafe,"Jl. Jenderal Ahmad Yani No.8, RT.8/RW.7",East Jakarta,4.3,221,"smoking_area, outdoor, indoor",$$,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
-120,Lucky Break Burger & Coffee,"Jl. Buaran Raya No.1, RW.15",East Jakarta,4.8,218,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-121,Porta Coffee and Kitchen,Jl. Boulevard Timur,North Jakarta,4.5,868,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
-122,"C For Cupcakes & Coffee, Pluit","Jl. Pluit Karang Utara No.52, RW.2",North Jakarta,4.5,733,"wifi, parking_area, reservation, pet_friendly, indoor",$$,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
-123,Copper Club Specialty Coffee,"Jl. Tarian Raya Timur W1 no 23, RT.5/RW.9",North Jakarta,4.7,729,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-124,Elmakko,"Blok, Jl. Danau Indah Barat, RT.5/RW.13",North Jakarta,4.6,587,"wifi, smoking_area, reservation, parking_area, vip_room, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,1
-125,Nomadix Cafe Jakarta,"Jl. Deli No.33, RT.4/RW.11",North Jakarta,4.5,577,"wifi, smoking_area, reservation, parking_area, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
-126,Narasi Coffee,"Jl. Danau Agung 2 No.28, RT.20/RW.10",North Jakarta,4.7,563,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-127,LIMA,"Rukan Gold Coast, Jl. Pantai Indah Kapuk No.5, RT.6/RW.2",North Jakarta,4.4,556,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-128,WILLBE Restaurant & Cafe,"Ruko Greenlake Sunter GWC, Jl. Danau Sunter Selatan, RT.15/RW.16",North Jakarta,4.6,555,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1
-129,Mornington Kitchen&Coffee,"Jl. Raya Kelapa Nias Blok QB5 No.9, RW.6",North Jakarta,4.4,514,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
-130,Cafe Kincir - Mal Artha Gading,"Mal Artha Gading, Lantai GF, Lobby Cina, Blok B8 No. 5-7, Jalan Boulevard Artha Gading, Kelapa Gading Barat, Kelapa Gading, RT.18/RW.8",North Jakarta,4.4,439,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
-131,Kohicha Japanese Cafe,"Ruko Gading Kirana Jalan Boulevard Artha Gading No.Blok A.6a No.21, RT.18/RW.8",North Jakarta,4.6,421,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-132,Repeat Coffee & Kitchen,"Jl. Raya Kelapa Hybrida Blok PD-14 Kav no 1, RT.4/RW.18",North Jakarta,4.4,420,"wifi, smoking_area, outdoor, reservation, parking_area, alcohol, indoor",$$,0,1,1,1,0,1,1,0,0,0,1,0,0,1,0
-133,The Hideout,"Jalan Raya Kelapa Hybrida Blok QH12 No. 5. Kelapa Gading., RT.6/RW.11",North Jakarta,4.4,402,"wifi, smoking_area, parking_area, reservation, indoor",$$,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0
-134,Maketh Coffee & Eatery,Jl. Danau Agung 2 No.15A,North Jakarta,4.6,344,"wifi, smoking_area, parking_area, reservation, indoor",$$,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0
-135,Kopiluvium,Jl. Cipeucang V No.18,North Jakarta,4.7,325,"wifi, smoking_area, outdoor, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
-136,La Fellas,"Ruko Florencia AA no 11-12, Jl. Boulevard bukit gading raya, Kelapa Gading, Jakarta Utara, RW.5",North Jakarta,4.4,291,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
-137,Coffee With Me,"Rukan Exclusive Blok A No. 32, Jl. Marina Indah Raya, Pantai Indah Kapuk, RT.7/RW.2",North Jakarta,4.4,286,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-138,Gregors Cafe,"Jl. Arteri Klp. Gading No.53, RT.7/RW.16",North Jakarta,4.4,285,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
-139,KOCIL Specialty Coffee Kelapa Gading,Jl. Tarian Raya Tim. No.x-21,North Jakarta,4.6,280,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-140,C For Cupcakes Kelapa Gading,"Jl. Boulevard Barat. Ruko Inkopal No.17, RT.15/RW.3",North Jakarta,4.6,278,"wifi, parking_area, reservation, pet_friendly, indoor",$$,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
-141,Oddity Coffee,Jl. Gading Putih IV Jl. Sumagung 3 No.Ruko,North Jakarta,4.7,265,"wifi, smoking_area, parking_area, reservation, indoor",$$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
-142,Point Coffee,"Jl. Taman Sunter Indah No.18, RT.6/RW.13",North Jakarta,4.7,246,"smoking_area, parking_area, indoor",$,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
-143,XI Coffee and Eatery,"Jl. Swasembada Timur XI No.34, RT.12/RW.10",North Jakarta,4.5,241,"wifi, smoking_area, parking_area, reservation, indoor",$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
-144,Tavor Cafe,"Jalan Agung Utara Raya Blok A36D No. 30 RT.11/RW.9, RT.11/RW.9",North Jakarta,4.4,235,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
-145,EXCELSO,"Jl. Boulevard Bar. Raya No.1, RT.18/RW.8",North Jakarta,4.5,229,"wifi, smoking_area, parking_area, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0
-146,Ratio Coffee Brewers,"Ruko J009, Mall Of Indonesia, Jl. Boulevard Bar. Raya",North Jakarta,4.7,226,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-147,Authentic Coffee,"Jl. Pluit Permai No.26, RT.1/RW.4",North Jakarta,4.5,225,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
-148,Homebound Coffee,"Jalan Kelapa Kopyor Raya Blok CC 1 No. 1, Kelapa Gading, RT.8/RW.12, Kelapa Gading Timur, Jakarta Utara, RT.8/RW.12",North Jakarta,4.6,219,"wifi, smoking_area, outdoor, indoor",$$,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0
-149,The Darwin's Theory Bistro & Lounge,"Jl Raya Kelapa Nias Blok GN. 1, RT.1/RW.6",North Jakarta,4.5,210,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
-150,Coffee Grounds,Jl. Sunter Karya Timur Raya No.4A,North Jakarta,4.5,209,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, alcohol, indoor",$,0,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe1,Bakerzin Central Park,"Central Park Mall, Letjen S. Parman No.28, RT.12/RW.6",West Jakarta,4.8,"2,752","outdoor, kid_friendly, reservations, in_mall",$$,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0
+cafe2,Bloom Coffee & Eatery,"Jl. Swadaya Ruko Swadaya City Square No.39, RT.11/RW.2",West Jakarta,4.7,592,"smoking_area, indoor, wifi",$,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+cafe3,Starbucks MGR 1,"Jl. Tanjung Duren Raya No.Kav.5-9, RT.3/RW.5",West Jakarta,4.7,298,"outdoor, wifi, indoor, ",$$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe4,Overlimit Coffee Jakarta ( Cafe ),"Jl. H. Soleh II No.2B, RT.7/RW.2",West Jakarta,4.7,248,"outdoor, live_music, wifi, smoking_area, alcohol",$,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0
+cafe5,Starbucks Coffee Pos Pengumben,"Jl. Raya Pos Pengumben No.34A, RT.10/RW.3",West Jakarta,4.6,"1,318","outdoor, wifi",$$,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+cafe6,Sudutsatu,Jl. Tj. Duren Barat I No.1c,West Jakarta,4.6,"1,288","outdoor, wifi",$$,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+cafe7,Starbucks - Central Park Mall,"Jl. S Parman Kav 28 L1-133, First Floor Jakarta JK, RT.12/RW.6",West Jakarta,4.6,"1,204","outdoor, wifi, smoking_area, pet_friendly, in_mall",$$,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0
+cafe8,Guten Mørgen Coffee Lab & Shop Tomang,"Jl. Mandala Utara No.29C, RT.17/RW.4",West Jakarta,4.6,884,"outdoor, wifi,",$$,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+cafe9,Atap kopi,"7, Jl. Panjang Kp. Baru No.2, RW.4",West Jakarta,4.6,729,"outdoor, wifi, alcohol",$,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+cafe10,Tanatap Coffee Meruya,"Jl. Jalur 20 No.Blok 30/19, RT.8/RW.10",West Jakarta,4.6,718,"parking_area, outdoor, wifi, smoking_area, ",$$,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+cafe11,Aiclass,"aiclass, Jl. Meruya Selatan No.27, RW.2",West Jakarta,4.6,666,"outdoor, indoor, live_music",$,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+cafe12,BERMVDA CENTRAL PARK,"Central Park Mall, 127B, Ground Floor, Jl. Letjen S. Parman, RT.12/RW.6",West Jakarta,4.6,351,"pet_friendly, outdoor, wifi, indoor, smoking_area, in_mall",$$,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0
+cafe13,OLIVE TREE House of Croissants,"Taman Permata Buana, Jl. Pulau Sebaru No.6, RT.11/RW.9",West Jakarta,4.6,345,"outdoor, indoor, pet_friendly, smoking_area, ",$,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+cafe14,KOPI NGEBUL COFFEE & RESTO,"Jl. Jalur 20 No.Kav. 30 No.25, RT.8/RW.10",West Jakarta,4.6,273,"outdoor, indoor, vip_room, parking_area, ",$$,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1
+cafe15,Caffeine Suite,"Tomang Barat, Jl. Duri Mas Dalam I Raya No.38",West Jakarta,4.6,229,"smoking_area, indoor, parking_area, wifi",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe16,Dancing Goat Coffee Co.,"Ruko Grand Puri Niaga, Jalan Puri Kencana Blok K6/2P, RT.11/RW.7, Kembangan Selatan, Kembangan, RT.11/RW.7",West Jakarta,4.5,"1,377","wifi, smoking_area, reservation, ",$$,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+cafe17,Excelso,"Central Park Lantai GF, Jalan Letjen. S. Parman Kav. 28, RT.13/RW.8",West Jakarta,4.5,"1,362","indoor, outdoor, in_mall, smoking_area ",$$,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+cafe18,Papa & Mama Bistro and Coffee,"Perrum Green Ville Blok. AS No. 40C, Jl. Komp. Green Ville No.Raya, RT.12/RW.13",West Jakarta,4.5,751,"wifi, smoking_area, outdoor, reservation, parking_area",$$,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0
+cafe19,Kuup Boardgame Cafe Greenville,"Blok no, Jalan Green Ville Blok Bk No.8c, RT.8/RW.14, Duri Kepa, Kebon Jeruk, RT.8/RW.14",West Jakarta,4.5,745,indoor,$$,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe20,Common Grounds Neo Soho,"Neo Soho Mall Ground Floor, Letjen S. Parman St No.Kav. 28, RT.3/RW.5",West Jakarta,4.5,738,"outdoor, wifi, reservation, in_mall",$$,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0
+cafe21,Say Something Coffee,"Ruko Grand Aries, Niaga, Jl. Aries Utara Blok G1 No.2-O, RT.12/RW.3",West Jakarta,4.5,621,"wifi, parking_area, ",$$,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+cafe22,Dinobites Cafe,Gg. Macan No.102C,West Jakarta,4.5,562,"wifi, kid_friendly",$$,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+cafe23,"Fore Coffee - Pesanggrahan, Jakarta","Jl. Pesanggrahan No.168, RW.6",West Jakarta,4.5,515,"indoor, smoking_area",$$,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+cafe24,Tyfel Coffee,"Jl. Mangga Raya Jl. Green Ville No.4, RT.8/RW.8",West Jakarta,4.5,464,"outdoor, alcohol, kid_friendly, wifi, reservation, smoking_area, ",$$,0,1,1,0,0,1,0,0,0,1,1,0,0,1,0
+cafe25,Yoloé Bistro and Coffee Bar,"Jl. Mangga Raya No.18, RT.4/RW.3",West Jakarta,4.5,362,"wifi, alcohol, reservation, smoking_area",$$,1,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+cafe26,Arabica Central Park,"Letjen S. Parman St, RT.3/RW.5",West Jakarta,4.4,628,"outdoor, in_mall",$$,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+cafe27,Tantular Cafe Pesanggrahan,"2, Jl. Pesanggrahan No.10G, RT.1/RW.9",West Jakarta,4.4,479,"outdoor, alcohol, live_music",$$,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+cafe28,The Coffee Bean & Tea Leaf,"Jalan Letjen. S. Parman No.28, Grogol Petamburan, RT.12/RW.6",West Jakarta,4.4,436,"smoking_area, outdoor",$$,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+cafe29,FountainHead Cafe Co. Living,RT.2/RW.10,West Jakarta,4.4,399,"wifi, kid_friendly, indoor, outdoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe30,Coffhouse Cengkareng,"Ps. Bersih Cengkareng, Jl. Danau Batur No.22, RW.16",West Jakarta,4.4,293,"live_music, takeaway, indoor",$$,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+cafe31,JPC Kemang Cafe,Jl. Kemang Raya No.47C,South Jakarta,5,"3,707","wifi, indoor, parking_area, toilets",$,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+cafe32,"C Bakes, Pondok Indah","Jl. Metro Pondok Indah No.28, RT.5/RW.14",South Jakarta,5,"3,612","takeaway, wifi, indoor, toilets",$$,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+cafe33,Mardin Fine Baklava Cafe - Kemang,"Jl. Kemang Utara No.16B1, RW.1",South Jakarta,4.8,"3,200","outdoor, indoor, wifi, parking_area, kid_friendly",$$$,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0
+cafe34,Lemme Get Space Coffee & Colaborative - Jagakarsa,"Jl. Moh. Kahfi 1 No.60, RT.7/RW.4",South Jakarta,4.8,"3,049","takeaway, wifi, indoor, outdoor, toilets, kid_friendly, parking_area",$,1,1,0,1,0,1,1,0,1,1,0,0,1,0,0
+cafe35,Kopi Cat Cafe by Groovy - Kemang,"Jl. Kemang Selatan VIII No.63A-B, RT.7/RW.2",South Jakarta,4.8,"2,623","pet_friendly, wifi, toilets, parking_area",$$,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0
+cafe36,Dipuri.jkt,"Jl. Puri Mutiara Raya No.3B, RT.7/RW.1",South Jakarta,4.8,"2,399","kid_friendly, toilets, alcohol, takeaway, indoor, outdoor",$$,0,1,0,0,0,0,1,0,1,1,1,0,1,0,0
+cafe37,Toko Kopi Tuku - Cipete,"Jl. Cipete Raya B No.7, RT.6/RW.3",South Jakarta,4.7,"1,979","outdoor, indoor, toilets",$,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+cafe38,Toko Kopi TUKU (Go-Food Only),"Jl. Abdul Majid Raya No.26, RT.7/RW.2",South Jakarta,4.7,"1,621","outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+cafe39,Cecemuwe Cafe and Space - Senayan,"Jl. Hang Jebat IX No.6, RW.4",South Jakarta,4.7,"1,460","wifi, outdoor, indoor, pet_friendly, kid_friendly, toilets",$$,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0
+cafe40,Sama Dengan Antasari,Jl. Putih Melati No.10B,South Jakarta,4.7,"1,437","outdoor, indoor, kid_friendly, toilets",$$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe41,Warung Fotkop,"Jl. Nangka I No.6, RT.2/RW.5",South Jakarta,4.7,"1,388","wifi, outdoor, indoor, pet_friendly, kid_friendly, toilets",$$,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0
+cafe42,Kedai Kopi Guyon,"Jl. RS. Fatmawati Raya No.22A, RT.14/RW.4",South Jakarta,4.7,"1,382","outdoor, indoor, pet_friendly",$$,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+cafe43,Starbucks Cipete,"Jl. Cipete Raya No.8, RW.4",South Jakarta,4.7,"1,356","outdoor, smoking_area, parking_area, indoor,",$$,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+cafe44,Gontran Cherrier Cipete,"6, Cipete, Jl. Cipete Raya No.63, RW.4",South Jakarta,4.7,"1,022","outdoor, indoor, reservation, smoking_area",$$$,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+cafe45,Ramu Nostalgia - Tebet,"Jl. Tebet Barat Dalam Raya IX No.56, RT.3/RW.3",South Jakarta,4.7,985,"outdoor, reservation",$$,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+cafe46,Toodz House - Cipete,"Jl. Cipete Raya No.79, RT.7/RW.4",South Jakarta,4.6,940,"outdoor, indoor, smoking_area, reservation, parking_area",$$$,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0
+cafe47,Dua Coffee @Cipete,Jl. Cipete Raya No.66,South Jakarta,4.6,889,"wifi, reservation, outdoor, smoking_area, parking_area",$$,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0
+cafe48,MOREAU Chocolatier's Cafe,"13, Jl. Kemang Raya No.31, RT.13/RW.1",South Jakarta,4.6,604,"wifi, outdoor, indoor, kid_friendly, takeway, toilets",$$,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0
+cafe49,"Bukan Ruang, Kemang","6, Jl. Kemang Raya No.29B, RT.6/RW.1",South Jakarta,4.6,593,"wifi, outdoor, indoor, kid_friendly, takeway, toilets",$$,0,1,0,0,0,1,1,0,0,1,0,0,1,0,0
+cafe50,Gordi HQ,"6, Jl. Jeruk Purut Dalam No.mor 25, RT.6/RW.3",South Jakarta,4.6,877,"wifi, kid_friendly, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe51,Six Ounces Coffee Panglima Polim,"Jl. Panglima Polim IX No.93, RT.4/RW.6",South Jakarta,4.6,855,"wifi, kid_friendly, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe52,GOLDEN BLACK COFFEE,"Jl. Pelita No.5B, RT.5/RW.7",South Jakarta,4.6,845,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe53,Starbucks - THB Pondok Indah,"2, Jl. Gedung Hijau I No.9, RT.1/RW.13",South Jakarta,4.6,826,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe54,Stuja Coffee Cipete,"19, Jl. Cipete Raya No.18, RT.8/RW.3",South Jakarta,4.6,816,"wifi, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe55,"1/15 Coffee, Kemang","Jl. Kemang Raya No.37, RT.9/RW.1",South Jakarta,4.6,802,"indoor, kid_friendly, toilets",$$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe56,Alenia Papua Coffee & Kitchen,"Jl. Kemang Raya No.66 B, RT.8/RW.2",South Jakarta,4.6,801,"indoor, kid_friendly, toilets",$$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe57,Kopi Tikum,"Jl. Ciranjang No.25, RT.2/RW.1",South Jakarta,4.6,756,"outdoor, indoor, kid_friendly",$$,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe58,Magia Coffee,"Samping Lift Stasiun MRT Haji Nawi, Jl. RS. Fatmawati Raya No.6A, RT.4/RW.5",South Jakarta,4.6,708,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe59,2madison Cafe,"Gedung PROMENADE 20, Jl. Bangka Raya Jl. Kemang Raya No.20, RT.11/RW.3",South Jakarta,4.6,708,"wifi, kid_friendly, outdoor, indoor",$$,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe60,Kopi & Kamu ( KOPKA CIPETE ),"Samping pintu F MRT, Jl. RS. Fatmawati Raya No.22, RW.4",South Jakarta,4.6,625,"outdoor, indoor, takeaway, toilets",$,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+cafe61,Djakarta Cafe,"gedung djakarta theatre, Jl. M.H. Thamrin No.9, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.2,1590,"wifi, kid_friendly, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe62,Kawisari Cafe & Eatery,"Jl. Kebon Sirih No.77A, RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,1303,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe63,Wake Cup Coffee,"Jl. Kaji No.40, RT.10/RW.7, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",Central Jakarta,4.5,768,"kid_friendly, outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe64,Teras Senja Coffee Shop,"Jl. F No.2, RT.12/RW.10, Cemp. Baru, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",Central Jakarta,4.7,272,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe65,Anomali Coffee Menteng,"Jl. Teuku Cik Ditiro No.52, RT.10/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.4,4164,"outdoor, indoor, toilets",$$,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+cafe66,Workroom Coffee,"Jl. Cikini Raya No.9, Menteng, RT.16/RW.1, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10330",Central Jakarta,4.3,830,"wifi, kid_friendly, indoor, toilets",$$,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0
+cafe67,O'delice cafe,"3, Jl. HOS. Cokroaminoto No.22, RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.6,200,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe68,Goedkoop,"Jl. Bendungan Hilir No.62, RT.5/RW.1, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.4,2239,"outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe69,Kolonial Jaksa,"Jl. Jaksa No.18, RT.13/RW.2, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,292,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe70,PeraciKopi,"Jl. Salemba Bluntas No.74, RT.11/RW.5, Paseban, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440",Central Jakarta,4.7,200,"outdoor, indoor, toilets",$,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+cafe71,"1/15 Coffee, Menteng","Jl. Dr. Kusuma Atmaja No.79, RT.10/RW.4, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,2318,"outdoor, indoor, kid_friendly",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe72,Watt Coffee,"The Capitol Park, Apartment, Jl. Salemba Raya No.16, RT.3/RW.6, Kenari, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10430",Central Jakarta,4.4,561,"wifi, outdoor, indoor, pet_friendly",$$,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0
+cafe73,Saudagar Kopi Sabang,"Jl. H. Agus Salim No.26F, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,2364,"outdoor, indoor",$$,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe74,Mood Coffee - Sabang,"Jl. H. Agus Salim No.23 A, RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.5,380,"indoor, kid_friendly",$,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe75,Malacca Toast Pasar Baru,"Jl. Samanhudi No.71, RT.8/RW.6, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",Central Jakarta,4.4,895,"outdoor, indoor, kid_friendly",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe76,ROMANSA,"Jl. H. Agus Salim No.18, RT.2/RW.1, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,564,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe77,Starbucks,"Starbucks Stasiun, Area Keberangkatan Jl. Medan Merdeka Tim. No.5, RW.2, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110",Central Jakarta,4.4,2199,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe78,Giyanti Coffee Roastery,"Jl. Surabaya No.20, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.6,3278,"indoor, toilets",$$,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+cafe79,Arborea Café,"Manggala Wanabakti complex, Jl. Gatot Subroto No.1, RT.1/RW.3, Gelora, Tanah Abang, Central Jakarta City, Jakarta 10270",Central Jakarta,4.5,3207,"kid_friendly, outdoor, indoor, toilets",$$,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe80,Common Grounds Coffee Roaster Menteng,"Jl. Teuku Cik Ditiro No.10, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.2,288,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe81,Ombé Kofie Menteng,"Jl. HOS. Cokroaminoto No.62A, RT.6/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.5,1081,"outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe82,Tigalima - Coffee & Kitchen,"Jalan K.H. Wahid Hasyim No.35 RT.016/RW.006 Gondangdia Menteng, RT.16/RW.6, Kb. Sirih, Jakarta, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",Central Jakarta,4.2,386,"kid_friendly, indoor, toilets",$$,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe83,Amalgam Coffee Brewery,"Jl. Kebon Sirih No.39, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",Central Jakarta,4.4,259,"kid_friendly, outdoor, indoor",$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe84,Atap Rumah Cafe,"Jl. Penjernihan IV No.9, RW.5, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.4,331,"kid_friendly, outdoor, indoor",$,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe85,Starbucks Plaza Menteng,"Jl. HOS. Cokroaminoto No.79, RT.3/RW.4, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,315,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe86,Starbucks - Metropole,"Jl. Pegangsaan Timur No.21, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,1485,"wifi, outdoor, indoor, toilets",$$,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+cafe87,Kopinette,"Jl. Blora No.7 2 6, RT.2/RW.6, Dukuh Atas, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.5,284,"wifi, outdoor, indoor, toilets",$$,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+cafe88,Phoenam Coffee Shop,"Jalan K.H. Wahid Hasyim No.12 RT.2/RW.7 Gondangdia Menteng RT.2 7, Sulawesi Selatan 10340",Central Jakarta,4.4,995,"outdoor, indoor",$,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+cafe89,Starbucks Cik Ditiro,"Jl. Teuku Cik Ditiro No.33, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310",Central Jakarta,4.7,1101,"wifi, outdoor, indoor",$$,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe90,KEN ALIY COFFEE - KOPI ENAK SPACES,"Jl. Bend. Hilir Gg. 3 No.11, RT.10/RW.1, Bend. Hilir, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210",Central Jakarta,4.6,495,"wifi, outdoor, indoor",$,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cafe91,Klangen Coffee & Resto,Jl. Rawa Domba No.17,East Jakarta,4.7,845,"kid_friendly, outdoor, indoor",$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe92,Hakuna Matata Jakarta,"Jl. Pertengahan No.5, RW.3",East Jakarta,4.6,844,"kid_friendly, outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe93,Kyō Coffee,Jl. Wirajasa Jl. Raya Jatiwaringin No.1,East Jakarta,4.5,787,"kid_friendly, outdoor, indoor, toilets",$$,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe94,Masalalu,"2, Jl. Rawa Domba No.47A, RT.2/RW.16",East Jakarta,4.7,750,"wifi, kid_friendly, pet_friendly, outdoor, indoor",$,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0
+cafe95,Vapehan Cafe,"Jl. Jend. R.S. Soekanto No.1, RT.1/RW.11",East Jakarta,4.9,731,"kid_friendly, indoor, toilets",$,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+cafe96,LACOCO CAFE,"Jalan Pondok Kelapa Raya Blok A12 No.10 Kota Jakarta Timur, RT.5/RW.11",East Jakarta,4.6,723,"wifi, kid_friendly, outdoor, indoor",$,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+cafe97,Kopilot Coffee House And Kitchen,"Jl. Raya Pd. Gede No.1, RW.3",East Jakarta,4.5,648,"kid_friendly, outdoor, indoor",$$,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe98,This Is Hud,"Jl. Raya Jatiwaringin No.13, RT.8/RW.7",East Jakarta,4.5,593,"kid_friendly, indoor",$,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe99,MEET/N/WORK Coffee & Eatery,"Jl. Sunan Giri No.3, RT.2/RW.15",East Jakarta,4.6,543,"kid_friendly, indoor",$$,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+cafe100,Cafe Tuyul To You All,"Jl. Tegal Amba No.10, RT.3/RW.13",East Jakarta,4.6,540,"parking_area, smoking_area, outdoor, indoor",$$,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+cafe101,Nuansa coffee and barber,Jl. Biru Laut VIII No.48.C,East Jakarta,4.7,456,"wifi, parking_area, indoor",$,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+cafe102,Happy Twin Cafe & Resto,"Jl. Taman Malaka Selatan No.12-14 No.12-14 RT.002/009, RT.2/RW.9",East Jakarta,4.7,449,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe103,Lupa Waktu Coffee,RT.7/RW.5,East Jakarta,4.7,435,"wifi, smoking_area, outdoor, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe104,Brew n' Sis Coffee & Eatery,"Jl. Pegambiran No.9A, RW.7",East Jakarta,4.8,375,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe105,Kopi Wangsa,"The View Building, Jl. Pahlawan Revolusi No.5, RT.8/RW.9",East Jakarta,4.7,361,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe106,SeedMe Casual Cafe,"Jl. Balai Pustaka Barat No.4A, RT.4/RW.11",East Jakarta,4.6,353,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe107,Kopi Kecil,"Kav.1, Jl. Kayu Putih Raya No.1, RT.8/RW.8",East Jakarta,4.6,350,"wifi, smoking_area, outdoor, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe108,Elzatta Cafe Pondok Kelapa Jakarta Timur,"Jl. Kelapa Kopyor 14 Komplek Pondok Kelapa Indah Blok A No.15, RT.13/RW.7",East Jakarta,4.5,319,"wifi, smoking_area, outdoor, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe109,The ORR'S Cafe Jakarta,"Jl. Pramuka No.18, RT.1/RW.1",East Jakarta,4.7,313,"wifi, smoking_area, outdoor, parking_area, live_music, indoor",$$,1,1,1,1,0,1,1,1,0,0,0,0,0,0,0
+cafe110,1947 Cafe Jakarta,"Jl. Pramuka No.19B, RT.6/RW.1",East Jakarta,4.8,313,"wifi, smoking_area, outdoor, parking_area, vip_room, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1
+cafe111,Lentera Café,"Jl. Cipinang Muara 3 No.17, RT.6/RW.4",East Jakarta,4.6,311,"wifi, parking_area, live_music, indoor",$,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+cafe112,Noesantara Coffee & Culinary,"Jl. Tawes No.21, RW.7",East Jakarta,4.9,285,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe113,Royale Cafe Resto,"Jl. Radin Inten II No.46, RT.1/RW.15",East Jakarta,4.6,274,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe114,RUMAH NGOPI,"Jl. Lkr. Timur Duren Sawit No.2, RW.4",East Jakarta,4.6,252,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe115,Flash Coffee,"Jl. Waru No.16, RT./RW:/RW.005/016",East Jakarta,4.7,242,"parking_area, indoor",$,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+cafe116,Rich Cafe House,"Jl. Radin Inten II Blok AG13 No.8, RT.5/RW.14",East Jakarta,4.3,239,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe117,Cafe Iyul,"Jl. Pedati Timur Dalam No.8, RT.12/RW.9",East Jakarta,4.4,237,"smoking_area, outdoor, indoor",$,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+cafe118,CUSTOMS coffee house,Jl. Bujana Tirta 2 No.4A,East Jakarta,4.6,222,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe119,Idaman cafe,"Jl. Jenderal Ahmad Yani No.8, RT.8/RW.7",East Jakarta,4.3,221,"smoking_area, outdoor, indoor",$$,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+cafe120,Lucky Break Burger & Coffee,"Jl. Buaran Raya No.1, RW.15",East Jakarta,4.8,218,"wifi, smoking_area, outdoor, parking_area, indoor",$,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe121,Porta Coffee and Kitchen,Jl. Boulevard Timur,North Jakarta,4.5,868,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe122,"C For Cupcakes & Coffee, Pluit","Jl. Pluit Karang Utara No.52, RW.2",North Jakarta,4.5,733,"wifi, parking_area, reservation, pet_friendly, indoor",$$,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
+cafe123,Copper Club Specialty Coffee,"Jl. Tarian Raya Timur W1 no 23, RT.5/RW.9",North Jakarta,4.7,729,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe124,Elmakko,"Blok, Jl. Danau Indah Barat, RT.5/RW.13",North Jakarta,4.6,587,"wifi, smoking_area, reservation, parking_area, vip_room, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,1
+cafe125,Nomadix Cafe Jakarta,"Jl. Deli No.33, RT.4/RW.11",North Jakarta,4.5,577,"wifi, smoking_area, reservation, parking_area, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe126,Narasi Coffee,"Jl. Danau Agung 2 No.28, RT.20/RW.10",North Jakarta,4.7,563,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe127,LIMA,"Rukan Gold Coast, Jl. Pantai Indah Kapuk No.5, RT.6/RW.2",North Jakarta,4.4,556,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe128,WILLBE Restaurant & Cafe,"Ruko Greenlake Sunter GWC, Jl. Danau Sunter Selatan, RT.15/RW.16",North Jakarta,4.6,555,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+cafe129,Mornington Kitchen&Coffee,"Jl. Raya Kelapa Nias Blok QB5 No.9, RW.6",North Jakarta,4.4,514,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe130,Cafe Kincir - Mal Artha Gading,"Mal Artha Gading, Lantai GF, Lobby Cina, Blok B8 No. 5-7, Jalan Boulevard Artha Gading, Kelapa Gading Barat, Kelapa Gading, RT.18/RW.8",North Jakarta,4.4,439,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe131,Kohicha Japanese Cafe,"Ruko Gading Kirana Jalan Boulevard Artha Gading No.Blok A.6a No.21, RT.18/RW.8",North Jakarta,4.6,421,"wifi, smoking_area, outdoor, reservation, parking_area, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe132,Repeat Coffee & Kitchen,"Jl. Raya Kelapa Hybrida Blok PD-14 Kav no 1, RT.4/RW.18",North Jakarta,4.4,420,"wifi, smoking_area, outdoor, reservation, parking_area, alcohol, indoor",$$,0,1,1,1,0,1,1,0,0,0,1,0,0,1,0
+cafe133,The Hideout,"Jalan Raya Kelapa Hybrida Blok QH12 No. 5. Kelapa Gading., RT.6/RW.11",North Jakarta,4.4,402,"wifi, smoking_area, parking_area, reservation, indoor",$$,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe134,Maketh Coffee & Eatery,Jl. Danau Agung 2 No.15A,North Jakarta,4.6,344,"wifi, smoking_area, parking_area, reservation, indoor",$$,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe135,Kopiluvium,Jl. Cipeucang V No.18,North Jakarta,4.7,325,"wifi, smoking_area, outdoor, parking_area, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe136,La Fellas,"Ruko Florencia AA no 11-12, Jl. Boulevard bukit gading raya, Kelapa Gading, Jakarta Utara, RW.5",North Jakarta,4.4,291,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe137,Coffee With Me,"Rukan Exclusive Blok A No. 32, Jl. Marina Indah Raya, Pantai Indah Kapuk, RT.7/RW.2",North Jakarta,4.4,286,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe138,Gregors Cafe,"Jl. Arteri Klp. Gading No.53, RT.7/RW.16",North Jakarta,4.4,285,"wifi, smoking_area, outdoor, reservation, parking_area, vip_room, alcohol, indoor",$$,1,1,1,1,0,1,1,0,0,0,1,0,0,1,1
+cafe139,KOCIL Specialty Coffee Kelapa Gading,Jl. Tarian Raya Tim. No.x-21,North Jakarta,4.6,280,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe140,C For Cupcakes Kelapa Gading,"Jl. Boulevard Barat. Ruko Inkopal No.17, RT.15/RW.3",North Jakarta,4.6,278,"wifi, parking_area, reservation, pet_friendly, indoor",$$,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0
+cafe141,Oddity Coffee,Jl. Gading Putih IV Jl. Sumagung 3 No.Ruko,North Jakarta,4.7,265,"wifi, smoking_area, parking_area, reservation, indoor",$$$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe142,Point Coffee,"Jl. Taman Sunter Indah No.18, RT.6/RW.13",North Jakarta,4.7,246,"smoking_area, parking_area, indoor",$,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+cafe143,XI Coffee and Eatery,"Jl. Swasembada Timur XI No.34, RT.12/RW.10",North Jakarta,4.5,241,"wifi, smoking_area, parking_area, reservation, indoor",$,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe144,Tavor Cafe,"Jalan Agung Utara Raya Blok A36D No. 30 RT.11/RW.9, RT.11/RW.9",North Jakarta,4.4,235,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+cafe145,EXCELSO,"Jl. Boulevard Bar. Raya No.1, RT.18/RW.8",North Jakarta,4.5,229,"wifi, smoking_area, parking_area, indoor",$$,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+cafe146,Ratio Coffee Brewers,"Ruko J009, Mall Of Indonesia, Jl. Boulevard Bar. Raya",North Jakarta,4.7,226,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe147,Authentic Coffee,"Jl. Pluit Permai No.26, RT.1/RW.4",North Jakarta,4.5,225,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, indoor",$$,0,1,1,1,0,1,1,0,0,0,0,0,0,1,1
+cafe148,Homebound Coffee,"Jalan Kelapa Kopyor Raya Blok CC 1 No. 1, Kelapa Gading, RT.8/RW.12, Kelapa Gading Timur, Jakarta Utara, RT.8/RW.12",North Jakarta,4.6,219,"wifi, smoking_area, outdoor, indoor",$$,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+cafe149,The Darwin's Theory Bistro & Lounge,"Jl Raya Kelapa Nias Blok GN. 1, RT.1/RW.6",North Jakarta,4.5,210,"wifi, smoking_area, parking_area, reservation, outdoor, indoor",$$,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0
+cafe150,Coffee Grounds,Jl. Sunter Karya Timur Raya No.4A,North Jakarta,4.5,209,"wifi, smoking_area, parking_area, reservation, outdoor, vip_room, alcohol, indoor",$,0,1,1,1,0,1,1,0,0,0,1,0,0,1,1

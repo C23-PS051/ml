@@ -195,7 +195,7 @@ def load_cafe_trial():
     return cafe_trial
 
 def load_cafe_data():
-    cafe_data = pd.read_csv('./models/cafe_data.csv')
+    cafe_data = pd.read_csv('./models/cafe_one_hot.csv')
     return cafe_data
 
 

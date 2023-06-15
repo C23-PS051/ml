@@ -90,11 +90,11 @@ def prepare_modelling(df_cafe, df_user, y_label):
     y_train = y_label.copy()
 
     #drop irrelevant columns
-    user_train = user_train.drop(['age', 'name'], axis=1)
+    user_train = user_train.drop(['user_id', 'age', 'name'], axis=1)
     user_train.head()
 
     #drop irrelevant columns
-    cafe_train = cafe_train.drop(['cafe_name', 'alamat', 'review', 'fasilitas'], axis=1)
+    cafe_train = cafe_train.drop(['cafe_id', 'cafe_name', 'alamat', 'review', 'fasilitas'], axis=1)
     cafe_train.head()
 
     # Reshape the DataFrame to have all elements in a single column

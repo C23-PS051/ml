@@ -193,7 +193,7 @@ def load_cafe_trial():
     cafe_trial['kategori_harga'] = encoded_data
 
     #drop strings column
-    cafe_trial = cafe_trial.drop(['cafe_id,', 'nama', 'alamat', 'review', 'fasilitas'], axis=1)
+    cafe_trial = cafe_trial.drop(['cafe_id', 'nama', 'alamat', 'review', 'fasilitas'], axis=1)
     
     return cafe_trial
 

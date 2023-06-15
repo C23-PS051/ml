@@ -10,10 +10,8 @@ def load_df():
     y_label = pd.read_csv('./models/y_label_new.csv')
     df_cafe['cafe_id'] = 'cafe' + df_cafe['cafe_id'].astype(str)
     df_user['user_id'] = 'user' + df_user['user_id'].astype(str)
-    print(df_cafe, df_user)
     return df_cafe, df_user, y_label
 
-load_df()
 
 def preprocess(df_cafe, df_user):
     #encode region

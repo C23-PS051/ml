@@ -35,7 +35,7 @@ class GenerateCafeAPIView(APIView):
         new_reservation = json_body['new_reservation']
         new_vip_room = json_body['new_vip_room']
 
-        user_vec = np.array([[new_user_id, new_is_male, new_age_group, new_price_category, new_24hrs, new_outdoor, new_smoking_area, new_parking_area, new_pet_friendly,
+        user_vec = np.array([[new_is_male, new_age_group, new_price_category, new_24hrs, new_outdoor, new_smoking_area, new_parking_area, new_pet_friendly,
                             new_wifi, new_indoor, new_live_music, new_takeaway, new_kid_friendly, new_alcohol, new_in_mall, 
                             new_toilets, new_reservation, new_vip_room]])
 

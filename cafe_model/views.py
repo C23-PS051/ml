@@ -15,7 +15,7 @@ class GenerateCafeAPIView(APIView):
         body_unicode = request.body.decode('utf-8')
         json_body = json.loads(body_unicode)
 
-        new_user_id = json_body['new_user_id']
+        new_user_id = 123 # placeholder
         new_is_male = json_body['new_is_male']
         new_age_group = json_body['new_age_group']
         new_price_category = json_body['new_price_category']

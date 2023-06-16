@@ -34,28 +34,21 @@ def preprocess(df_cafe, df_user):
         
     df_cafe = df_cafe.fillna(0)
 
-    #encode price range
-
+    #encode price range for cafe
     dollar_list = sorted(df_cafe['kategori_harga'].unique())
-
     ordinal_encoder = OrdinalEncoder(categories=[dollar_list])
-
     encoded_data = ordinal_encoder.fit_transform(df_cafe[['kategori_harga']])
 
     # dollar signs
     df_cafe['kategori_harga'] = encoded_data
 
-    #encode price range
-
+    #encode price range for user
     dollar_user = sorted(df_user['price_category'].unique())
-
     ordinal_encoder = OrdinalEncoder(categories=[dollar_user])
-
     encoded_data = ordinal_encoder.fit_transform(df_user[['price_category']])
 
     # dollar signs
     df_user['price_category'] = encoded_data
-
     df_cafe['kategori_harga'] = df_cafe['kategori_harga'].astype(int)
     df_user['price_category'] = df_user['price_category'].astype(int)
     df_cafe.iloc[:, 8:] = df_cafe.iloc[:, 8:].astype(int)
@@ -107,11 +100,6 @@ def prepare_modelling(df_cafe, df_user, y_label):
     u_s = 3  # start of columns to use in training, user
     c_s = 1  # start of columns to use in training, items
 
-    # scale training data
-    # cafe_train_unscaled = cafe_train
-    # user_train_unscaled = user_train
-    # y_train_unscaled = y_train
-
     scalerItem = StandardScaler()
     scalerItem.fit(cafe_train)
     cafe_train = scalerItem.transform(cafe_train)
@@ -123,7 +111,6 @@ def prepare_modelling(df_cafe, df_user, y_label):
     scalerTarget = MinMaxScaler((-1, 1))
     scalerTarget.fit(y_train.reshape(-1, 1))
     y_train = scalerTarget.transform(y_train.reshape(-1, 1))
-    #ynorm_test = scalerTarget.transform(y_test.reshape(-1, 1))
 
     cafe_train, cafe_test = train_test_split(cafe_train, train_size=0.80, shuffle=True, random_state=1)
     user_train, user_test = train_test_split(user_train, train_size=0.80, shuffle=True, random_state=1)
@@ -180,13 +167,13 @@ def load_ml_model(cafe_train, cafe_test, user_train, user_test, y_train, y_test,
 def load_cafe_trial():
     cafe_trial = pd.read_csv('./models/cafe_one_hot.csv')
 
-    #encode price range
+    #encode region
     label_encoder = LabelEncoder()
     cafe_trial['region'] = label_encoder.fit_transform(cafe_trial['region'])
+    
+    #encode price range
     dollar_list = sorted(cafe_trial['kategori_harga'].unique())
-
     ordinal_encoder = OrdinalEncoder(categories=[dollar_list])
-
     encoded_data = ordinal_encoder.fit_transform(cafe_trial[['kategori_harga']])
 
     # dollar signs
@@ -228,4 +215,3 @@ def predict(model, user_vec, cafe_trial, scalerUser, scalerItem, scalerTarget, c
     sorted_items = cafe_data.iloc[sorted_index]  #using unscaled vectors for display
 
     return sorted_items[:10]
-    #print_pred_cafes(sorted_ypu, sorted_items, cafe_dict, maxcount = 10)

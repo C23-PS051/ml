@@ -16,8 +16,8 @@ class GenerateCafeAPIView(APIView):
         json_body = json.loads(body_unicode)
 
         new_user_id = 123 # placeholder
-        new_is_male = json_body['new_is_male']
-        new_age_group = json_body['new_age_group']
+        new_is_male = json_body.get("new_is_male", 1)
+        new_age_group = json_body.get("new_age_group", 1)
         new_price_category = json_body.get("new_price_category", "$$")
         new_24hrs = json_body.get("new_24hrs", 0)
         new_outdoor = json_body.get("new_outdoor", 1)
